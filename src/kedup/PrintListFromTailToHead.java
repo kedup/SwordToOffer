@@ -7,7 +7,6 @@ import java.util.Stack;
  *
  */
 public class PrintListFromTailToHead {
-    // 递归方法
 
 
     public static ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
