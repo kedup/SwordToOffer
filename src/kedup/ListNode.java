@@ -4,8 +4,8 @@ package kedup;
  *
  */
 public class ListNode {
-    private int val;
-    private ListNode next;
+     int val;
+     ListNode next;
 
     public ListNode(int val) {
         this.val = val;
